@@ -10,4 +10,4 @@ Steps For Running the scripts :
 3.Run the Tests 
 
 
-NOTE: You will find the test cases and the bugs report in file "Edf3ly Task.docs"
+NOTE: You will find the test cases and the bugs report in file "Edf3ly Task.docx"
