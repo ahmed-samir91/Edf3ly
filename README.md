@@ -5,7 +5,7 @@ Requriments for Running :
 3.TestNG version 6.14.3
 
 Steps For Running the scripts :
-1.Import the project to the IDE 
+1.Import the project to the IDE after creating a maven project
 2.Open scr-test-java-Base-Basetest
 3.Run the Tests 
 
